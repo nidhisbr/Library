@@ -1,0 +1,15 @@
+.jumbotron {
+background:red;
+background: linear-gradient(120deg, #D672D8   0% , #17F0F7 50% , #7EEE4D  100% );
+}
+.text-center h1{
+font-family: 'Berkshire Swash', cursive;
+}
+.text-center q{
+font-family: 'Scheherazade', serif;	
+font-size:18px;
+}
+button{
+background-color:#E02C2C; 
+color:#fff; 	
+}
